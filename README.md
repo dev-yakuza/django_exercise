@@ -164,14 +164,14 @@ python manage.py runserver
 ## how to use django_exercise
 django_exercise is the repository about django web service for deploying Heroku service. there are blog posts about this repository. if you want to know more details, see the link below.
 
-- [django installation](https://dev-yakuza.github.io/en/django/installation/){:target="_blank"}
-- [Start django Project](https://dev-yakuza.github.io/en/django/start/){:target="_blank"}
-- [Use Models in django](https://dev-yakuza.github.io/en/django/models/){:target="_blank"}
-- [django Administrator Page](https://dev-yakuza.github.io/en/django/admin/){:target="_blank"}
-- [django Routing](https://dev-yakuza.github.io/en/django/routing/){:target="_blank"}
-- [django ORM](https://dev-yakuza.github.io/en/django/orm/){:target="_blank"}
-- [django View](https://dev-yakuza.github.io/en/django/view/){:target="_blank"}
-- [django Form](https://dev-yakuza.github.io/en/django/form/){:target="_blank"}
+- [django installation](https://dev-yakuza.github.io/en/django/installation/)
+- [Start django Project](https://dev-yakuza.github.io/en/django/start/)
+- [Use Models in django](https://dev-yakuza.github.io/en/django/models/)
+- [django Administrator Page](https://dev-yakuza.github.io/en/django/admin/)
+- [django Routing](https://dev-yakuza.github.io/en/django/routing/)
+- [django ORM](https://dev-yakuza.github.io/en/django/orm/)
+- [django View](https://dev-yakuza.github.io/en/django/view/)
+- [django Form](https://dev-yakuza.github.io/en/django/form/)
 - [Upload django project to Heroku](https://dev-yakuza.github.io/en/django/heroku/)
 
 ### How to use
